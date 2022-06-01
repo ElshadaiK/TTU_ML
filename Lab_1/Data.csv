@@ -1,0 +1,11 @@
+﻿Department,Age,Tution,Enrolled
+Math,24,32000,No
+CSC,17,48000,Yes
+ECE,20,24000,No
+CSC,18,31000,No
+ECE,21,,Yes
+Math,25,28000,Yes
+CSC,,32000,No
+Math,18,29000,Yes
+ECE,19,33000,No
+Math,19,27000,Yes
